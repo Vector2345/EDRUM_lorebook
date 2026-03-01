@@ -1,3 +1,5 @@
+---
+
 # EDRUM_lorebook
 
 A SillyTavern WorldInfo lorebook for an original high fantasy RPG setting — **Ederum**.
@@ -18,6 +20,11 @@ Developed over iterative testing sessions with assistance from Claude (Anthropic
 - Three different prison systems per race
 - Class determination through player behavior
 
+## Requirements
+
+- [SillyTavern](https://github.com/SillyTavern/SillyTavern)
+- **D&D Dice** extension for SillyTavern — required for d20 mechanics
+
 ## Recommended Model
 
 **L3-8B-Stheno-v3.2-Q4_K_M**
@@ -37,16 +44,17 @@ Tested and optimized for this model. Other roleplay-focused models should work b
 
 ## Setup
 
-1. Import `edrum_worldinfo_v6b.json` into SillyTavern WorldInfo
-2. Load `edrum_system_prompt_v4.txt` as system prompt
-3. Load `edrum_prompt_v7.txt` as main prompt
-4. Use `edrum_first_message.txt` as opening message
-5. Import `Default.json` into your sampler settings
-6. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
+1. Install **D&D Dice** extension in SillyTavern
+2. Import `edrum_worldinfo_v6b.json` into SillyTavern WorldInfo
+3. Load `edrum_system_prompt_v4.txt` as system prompt
+4. Load `edrum_prompt_v7.txt` as main prompt
+5. Use `edrum_first_message.txt` as opening message
+6. Import `Default.json` into your sampler settings
+7. Import `ST-formatting-2026-03-01.json` into SillyTavern formatting settings
 
 ## Commands
 
-- `DO [action]` — physical action
+- `DO [action] [roll result]` — physical action with dice roll
 - `SAY "[dialogue]"` — speak to NPC
 - `STORY [reflection]` — inner narrative or time skip
 

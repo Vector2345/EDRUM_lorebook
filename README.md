@@ -35,8 +35,8 @@ Tested and optimized for this model. Other roleplay-focused models should work b
 
 | File | Description |
 |------|-------------|
-| `edrum_worldinfo_v6b.json` | Main WorldInfo lorebook |
-| `edrum_system_prompt_v4.txt` | System prompt |
+| `edrum_worldinfo_v7.json` | Main WorldInfo lorebook |
+| `edrum_system_prompt_v5.txt` | System prompt |
 | `edrum_prompt_v7.txt` | Main prompt |
 | `edrum_first_message.txt` | Opening message |
 | `Default.json` | Sampler settings — temperature, penalties, generation parameters |

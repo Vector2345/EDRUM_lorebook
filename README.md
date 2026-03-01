@@ -18,12 +18,16 @@ Class determination through player behavior
 Recommended Model
 L3-8B-Stheno-v3.2-Q4_K_M
 Tested and optimized for this model. Other roleplay-focused models should work but are untested.
+Files
+FileDescriptionedrum_worldinfo_v6b.jsonMain WorldInfo lorebookedrum_system_prompt_v4.txtSystem promptedrum_prompt_v7.txtMain promptedrum_first_message.txtOpening messageDefault.jsonSampler settings — temperature, penalties, generation parametersST-formatting-2026-03-01.jsonSillyTavern response format settings
 Setup
 
 Import edrum_worldinfo_v6b.json into SillyTavern WorldInfo
 Load edrum_system_prompt_v4.txt as system prompt
 Load edrum_prompt_v7.txt as main prompt
 Use edrum_first_message.txt as opening message
+Import Default.json into your sampler settings
+Import ST-formatting-2026-03-01.json into SillyTavern formatting settings
 
 Commands
 

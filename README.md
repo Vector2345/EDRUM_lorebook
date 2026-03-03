@@ -7,7 +7,7 @@ Ederum is a high fantasy world featuring two rival empires, complex morality, an
 Developed over iterative testing sessions with assistance from Claude (Anthropic).
 
 ## Features
-- 36 WorldInfo entries with keyword triggers
+- 35 WorldInfo entries with keyword triggers
 - DO / SAY / STORY command system
 - Faction-aware NPC knowledge system
 - Legal system with consequences — arrest, trial, execution

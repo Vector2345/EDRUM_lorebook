@@ -1,5 +1,5 @@
 # EDRUM_lorebook
-A SillyTavern WorldInfo lorebook for an original high fantasy RPG setting — **Ederum**.
+A SillyTavern WorldInfo lorebook for an original high fantasy RPG setting — **Edrum**.
 
 ## About
 Ederum is a high fantasy world featuring two rival empires, complex morality, and a first-person narrative system. Built for immersive TTRPG-style play with real consequences.

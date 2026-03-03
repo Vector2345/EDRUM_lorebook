@@ -29,8 +29,8 @@ Tested and optimized for this model. Other roleplay-focused models should work b
 |------|-------------|
 | `edrum_worldinfo_v10.json` | Main WorldInfo lorebook |
 | `edrum_system_prompt_v5.txt` | System prompt |
-| `Game Master EDURUM.json` | Character card with built-in prompt and opening message |
-| `Default.json` | Sampler settings — temperature, penalties, generation parameters |
+| `Game Master EDRUM.json` | Character card with built-in prompt and opening message |
+| `RP.json` | Sampler settings — temperature, penalties, generation parameters |
 | `ST-formatting-2026-03-01.json` | SillyTavern response format settings |
 
 ## Setup
